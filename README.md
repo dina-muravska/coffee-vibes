@@ -7,6 +7,12 @@ The website showcases different coffee sections with engaging visuals and intera
 
 ---
 
+## 🖼️ Preview
+
+<img width="1020" height="702" alt="image" src="https://github.com/user-attachments/assets/1f628353-0d07-45ec-96fe-6b88c3078600" />
+
+---
+
 ## 🚀 Live Demo
 
 - 🔗 Live Site: https://dina-muravska.github.io/coffee-vibes/
