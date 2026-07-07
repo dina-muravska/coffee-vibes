@@ -102,4 +102,4 @@ Open `index.html` in your browser.
 
 **Dina Muravska**
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/dina-muravska
